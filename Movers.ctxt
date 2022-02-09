@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Movers
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Movers\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Movers\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ enviroment.\r\n
+comment2.params=fishNumber
+comment2.target=void\ checkMotion(int)
+comment3.params=speed1
+comment3.target=void\ motionAhead(int)
+comment4.params=speed1
+comment4.target=void\ motionBackwards(int)
+comment5.params=start\ stop
+comment5.target=void\ setMovement(int,\ int)
+comment6.params=
+comment6.target=void\ wrapAtEdge()
+comment7.params=min\ max
+comment7.target=void\ wrapAtEdgeSpecific(int,\ int)
+numComments=8

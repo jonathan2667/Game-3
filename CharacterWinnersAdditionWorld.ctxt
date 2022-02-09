@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=CharacterWinnersAdditionWorld
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ CharacterWinnersAdditionWorld\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=position\ imageName
+comment1.target=CharacterWinnersAdditionWorld(int,\ java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=start\ stop
+comment3.target=void\ setMovement(int,\ int)
+numComments=4
