@@ -1,0 +1,3 @@
+algo that sorts and finds position needs to get uptadet in case same posiiton from multiple actors
+
+2. music ends when showing answers world
